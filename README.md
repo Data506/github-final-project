@@ -1,2 +1,3 @@
-# github-final-project
-This project is just a practice lab required for the course with git, as part of the DevOps professional certified
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input: p, principal amount t, time period in years r, annual rate of interest Output simple interest = ptr
